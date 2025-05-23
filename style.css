@@ -12,7 +12,7 @@
   min-height: 100vh;
   overflow-x: hidden;
   overflow-y: auto;
-      background: linear-gradient(to right, rgb(255,255,255), rgb(254,215,173));
+   background: linear-gradient(to right, rgb(255,255,255), rgb(254,215,173));
     }
     nav {
       width: 100%;
@@ -280,9 +280,9 @@
 
 .about-text p{
     color: #0a0a0a;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 1.4;
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
 }
 
 /* Center the main title */
