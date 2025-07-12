@@ -1,4 +1,4 @@
-* {
+ * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
@@ -444,7 +444,7 @@
       transform: translate(-50%, -50%);
       font-size: 1.2rem;
       font-weight: bold;
-      color: #f0db4f;
+      color: #000000;
     }
 
     .text {
